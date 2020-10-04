@@ -1,6 +1,5 @@
 # PAC-Mailer
 
-# WordCloud
  The script will generate a certificate and mail them. 
  
 
